@@ -36,8 +36,8 @@ tags:
 6. 課程編輯：使用markdown編輯。
 
 ##### 首頁
-![image](https://github.com/Jayyyu1w/NTOU-course-guide-system/assets/75748924/a338a7fd-0d82-46e7-9003-5aabd7f2c60f)
+![image](/assets/NTOU_course_guide_system/index.png)
 ##### 教師編輯頁
-![image](https://github.com/Jayyyu1w/NTOU-course-guide-system/assets/75748924/65c869ba-7fee-41cf-b820-2abc82f5c38b)
+![image](/assets/NTOU_course_guide_system/edit.png)
 ##### 課程資訊頁
-![image](https://github.com/Jayyyu1w/NTOU-course-guide-system/assets/75748924/19fc73c8-9f16-4bbc-b208-5154adc68df8)
+![image](/assets/NTOU_course_guide_system/course.png)

@@ -31,13 +31,13 @@ const projects = (await getCollection('project'))
 			<header class="hero">
 				<Hero
 					title="Hello, my name is Yu-Jie Wang."
-					tagline="I am Yu-Jie Wang, you can call me Jason, and I also has a nickname call Jayyue."
+					tagline="I am Yu-Jie Wang, a master student in NCU CSIE."
 					align="start"
 				>
 					<div class="roles">
+						<Pill><Icon icon="gear" size="1.33em" /> SA</Pill>
 						<Pill><Icon icon="code" size="1.33em" /> Developer</Pill>
 						<Pill><Icon icon="microscope" size="1.33em" /> Researcher</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" /> Writer</Pill>
 					</div>
 				</Hero>
 
@@ -56,7 +56,7 @@ const projects = (await getCollection('project'))
 			<section class="section with-background with-cta">
 				<header class="section-header stack gap-2 lg:gap-4">
 					<h3>Selected Work</h3>
-					<p>Take a look below at some of my featured work for clients from the past few years.</p>
+					<p>Here are some of my past projects.</p>
 				</header>
 
 				<div class="gallery">
@@ -81,17 +81,19 @@ const projects = (await getCollection('project'))
 
 			<section class="section with-background bg-variant">
 				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Mentions</h3>
+					<h3>Awards and Mention</h3>
 					<p>
-						I have been fortunate enough to receive praise for my work in several publications. Take
-						a look below to learn more.
+						These are some of the awards and mention I've received over the years.
 					</p>
 				</header>
 
 				<div class="gallery">
 					<Grid variant="small">
 						{
-							['Medium', 'BuzzFeed', 'The Next Web', 'awwwards.', 'TechCrunch'].map((brand) => (
+							['2022 ICPC Asia Taiwan Online Programming Contest - Honorable Mention(76/216)',
+							'2023 IEEE International Conference on Marine Artificial Intelligence and Law (ICMAIL) - Acceptance',
+							'2023 全國大專校院智慧創新暨跨域整合創作競賽 - 決賽',
+							].map((brand) => (
 								<li class="mention-card">
 									<p>{brand}</p>
 								</li>

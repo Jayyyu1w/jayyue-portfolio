@@ -1,7 +1,7 @@
 ---
 title: Give Ocean A Piece Of Your Mind
 publishDate: 2023-12-25 00:00:00
-img: https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/9.png?raw=true
+img: /assets//GOPM/GOPM_cover.png
 img_alt: 暫定
 description: |
   We designed a system dedicated to the sustainable development of the ocean, combining underwater image colorization and restoration, object detection, and various neural network models to assist people in more effectively researching and understanding the ocean.
@@ -22,7 +22,7 @@ tags:
 
 #### Overview🍩
 This system is dedicated to the sustainable development of the ocean, combining underwater image colorization and restoration, object detection, and various neural network models to assist people in more effectively researching and understanding the ocean.
-<img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/assets/75748924/53e3f54e-0de8-4751-ac07-02628458ac09" alt="badge" width="700">
+<img src="/assets/GOPM/GOPM_1.png" alt="badge" width="700">
 <!-- <div align="center">
   <img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/9.png?raw=true" alt="frame9125" width="600">
 </div> -->
@@ -39,7 +39,7 @@ This system is dedicated to the sustainable development of the ocean, combining 
 +   **Ocean Sustainability Technology**: Assists in the observation and research of the ocean.
 
 <div align="center">
-  <img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/5.png?raw=true" alt="frame9125" width="300"><img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/2.png?raw=true" alt="frame9125" width="308">
+  <img src="/assets/GOPM/GOPM_2.png" alt="frame9125" width="300"><img src="/assets/GOPM/GOPM_3.png" alt="frame9125" width="308">
 </div>
 
 #### Key Features
@@ -57,5 +57,5 @@ This system is dedicated to the sustainable development of the ocean, combining 
 6.  **Colorblock Capture and Analysis**: Manually captures colorblocks to evaluate colorblock data in images.
 
 <div align="center">
-  <img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/7.png?raw=true" alt="frame9125" width="290"><img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/8.png?raw=true" alt="frame9125" width="290"><img src="https://github.com/NTOU-Arrays-Start-at-One/Give-ocean-a-piece-of-your-mind/blob/main/image/6.png?raw=true" alt="frame9125" width="243">
+  <img src="/assets/GOPM/GOPM_4.png" alt="frame9125" width="290"><img src="/assets/GOPM/GOPM_5.png" alt="frame9125" width="290"><img src="/assets/GOPM/GOPM_6.png" alt="frame9125" width="243">
 </div>

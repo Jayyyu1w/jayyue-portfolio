@@ -1,7 +1,7 @@
 ---
 title: Journey Memory
 publishDate: 2020-03-02 00:00:00
-img: https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/main_page.jpg?raw=true
+img: /assets/Journal_Memory/main_page.jpg
 img_alt: 暫定
 description: |
   Android Journey Memory is a mobile app that allows users to record and plan their travels. It has features such as location, recording, photography, image placement, and text writing, and can be used to find travel records by date.
@@ -26,7 +26,7 @@ Android旅遊日誌，提供使用者紀錄與規劃旅遊的手機軟體，具�
 首先進入"旅遊日誌"可以看到主頁面
 
 
-<img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/main_page.jpg?raw=true" alt="test" width="200"> <img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/main_page2.jpg?raw=true" alt="test" width="200">
+<img src="/assets/Journal_Memory/main_page.jpg" alt="test" width="200"> <img src="/assets/Journal_Memory/main_page2.jpg" alt="test" width="200">
 
 + 點擊第一個畫面框，可以選擇您要的"日誌類別"(旅遊、美食、其他)
 + 點擊第二個欄位並輸入您的"日誌標題"
@@ -38,7 +38,7 @@ Android旅遊日誌，提供使用者紀錄與規劃旅遊的手機軟體，具�
 ##### 開始旅程頁說明
 進入"開始旅程"創建您的旅程
 
-<img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/edit_page4.jpg?raw=true" alt="test" width="200">
+<img src="/assets/Journal_Memory/edit_page4.jpg?raw=true" alt="test" width="200">
 
 
 
@@ -49,12 +49,12 @@ Android旅遊日誌，提供使用者紀錄與規劃旅遊的手機軟體，具�
 點選右下"+"圖示可展開選擇您想要加入日誌的種類
 點選右下"打勾"圖示可儲存您的日誌
 
-<img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/edit_page.jpg?raw=true" alt="test" width="200"> <img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/edit_page2.jpg?raw=true" alt="test" width="200"> 
+<img src="/assets/Journal_Memory/edit_page.jpg" alt="test" width="200"> <img src="/assets/Journal_Memory/edit_page2.jpg" alt="test" width="200"> 
 
 點擊您的日誌標題可進行標題更改
 長按您加入的任何日誌元素都可以進行刪除
 
-<img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/change.jpg?raw=true" alt="test" width="200"> <img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/remove2.jpg?raw=true" alt="test" width="200"> 
+<img src="/assets/Journal_Memory/change.jpg?raw=true" alt="test" width="200"> <img src="/assets/Journal_Memory/remove2.jpg?raw=true" alt="test" width="200"> 
 
 ##### 地圖功能
 
@@ -62,11 +62,11 @@ Android旅遊日誌，提供使用者紀錄與規劃旅遊的手機軟體，具�
 + 自動：自動加入您當前位置的經緯度
 + 手動：輸入地標名稱，並點擊"確定"即可加入地點名稱
 
-<img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/edit_page3.jpg?raw=true" alt="test" width="200"> <img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/map2.jpg?raw=true" alt="test" width="200">
+<img src="/assets/Journal_Memory/edit_page3.jpg?raw=true" alt="test" width="200"> <img src="/assets/Journal_Memory/map2.jpg?raw=true" alt="test" width="200">
 
 點擊"地點名稱或座標"，將自動打開Google Map並查看此位置的地圖資訊
 
-<img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/map3.jpg?raw=true" alt="test" width="200"> <img src="https://github.com/Jayyyu1w/Journey_Memory/blob/main/src/map.jpg?raw=true" alt="test" width="200">
+<img src="/assets/Journal_Memory/map3.jpg?raw=true" alt="test" width="200"> <img src="/assets/Journal_Memory/map.jpg?raw=true" alt="test" width="200">
 
 實作細節是透過 Place API 取得地點資訊，並以 Google Map API 顯示地圖
 
