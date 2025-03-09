@@ -1,7 +1,7 @@
 ---
 title: Give Ocean A Piece Of Your Mind
 publishDate: 2023-12-25 00:00:00
-img: /assets//GOPM/GOPM_cover.png
+img: /assets/GOPM/GOPM_cover.png
 img_alt: 暫定
 description: |
   We designed a system dedicated to the sustainable development of the ocean, combining underwater image colorization and restoration, object detection, and various neural network models to assist people in more effectively researching and understanding the ocean.
